@@ -40,6 +40,18 @@
   text-align: center;
   line-height: 1.75rem;
 }
+.btn{
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--white);
+  background-image: var(--gradient-2);
+  outline: none;
+  border: none;
+  border-radius: 5rem;
+  cursor: pointer;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
  
 button{
   padding: 0.75rem 1.5rem;
